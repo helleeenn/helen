@@ -4,12 +4,12 @@ body {
     line-height: 1.6;
     margin: 0;
     padding: 0;
-    color: #ffffff;
-    background-color: #FFFFFF;
+    color: #1900ff;
+    background-color: #2600ff;
 }
 
 header {
-    background-color: #F8F8FF;
+    background-color: #0000ff;
     padding: 20px;
     text-align: center;
     border-bottom: 4px solid #deb0d8;
@@ -18,7 +18,7 @@ header {
 section {
     padding: 20px;
     margin: 20px;
-    background-color: rgba(248, 248, 255, 0.3);
+    background-color: rgba(0, 0, 255, 0.3);
     border: 4px solid #deb0d3;
 }
 
@@ -38,13 +38,13 @@ li {
     margin-bottom: 10px;
     padding: 10px;
     border: 2px solid #deb0c7;
-    background-color: rgba(176, 196, 222, 0.1);
+    background-color: rgba(0, 4, 255, 0.1);
 }
 
 form {
     display: flex;
     flex-direction: column;
-    background-color: #F8F8FF;
+    background-color: #0000ff;
     padding: 20px;
     border: 4px solid #deb0c2;
 }
@@ -59,15 +59,15 @@ input, textarea {
     padding: 10px;
     border: 2px solid #deb0cc;
     border-radius: 0;
-    background-color: #FFFFFF;
+    background-color: #0044ff;
     color: #b4468a;
     font-family: 'Courier New', monospace;
 }
 
 button {
     padding: 10px;
-    background-color: #ffffff;
-    color: #FFFFFF;
+    background-color: #9a96b1;
+    color: #1900ff;
     border: none;
     font-family: 'Press Start 2P', 'Courier New', monospace;
     text-transform: uppercase;
@@ -81,7 +81,7 @@ button:hover {
 }
 
 footer {
-    background-color: #F8F8FF;
+    background-color: #0000ff;
     text-align: center;
     padding: 10px;
     width: 100%;
@@ -90,6 +90,6 @@ footer {
 }
 
 footer a {
-    color: #ffffff;
+    color: #001aff;
     text-decoration: none;
 }
